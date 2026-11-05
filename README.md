@@ -27,7 +27,7 @@ As a **Backend-focused Developer**, I'm passionate about building scalable, high
 Node.js, Express.js, System Design, C++, Database Modeling, and Distributed Architectures.  
 
 ### 📫 **Get in Touch**
-[Email Me](mailto:maneharsh513@gmail.com)  
+[Email Me](mailto:maneharsh513@gmail.com)
 
 ### 📄 **My Portfolio**
 📝 [View Here](#) *(https://portfolio-website-uq5l.vercel.app/)*  
