@@ -1,9 +1,7 @@
 <h1 align="center" style="color: #FF69B4;">Hey there! 👋 I'm Harsh Mane</h1>  
 <h3 align="center" style="color: #1E90FF;">✨ A passionate Backend Developer & Engineering Student from India 🇮🇳🌍</h3>
 
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harsh%20Mane&fontSize=50&animation=fadeIn)
-
----
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harsh%20Mane&fontSize=50&animation=fadeIn&fontFamily=Segoe%20Script)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Systems-brightgreen" alt="Backend Badge" />
