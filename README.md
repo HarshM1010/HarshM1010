@@ -30,7 +30,7 @@ Node.js, Express.js, System Design, C++, Database Modeling, and Distributed Arch
 [Email Me](mailto:maneharsh513@gmail.com)
 
 ### 📄 **My Portfolio**
-📝 [View Here](#) *(https://portfolio-website-uq5l.vercel.app/)*  
+📝 [View Here](https://portfolio-website-uq5l.vercel.app/)
 
 ---
 
